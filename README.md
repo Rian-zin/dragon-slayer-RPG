@@ -22,4 +22,4 @@ Algumas refinações nos danos dos ataques.
 O Dragão agora dropa "Escama de Dragão".
 Você pode interagir com o Inventário de forma simples.
 
-MAIS NOVIDADES ESTÃO POR VIR!
+## ESSE PROJETO FOI DEIXADO COMO LEGADO, NÃO RECEBERÁ MAIS COMMITS OU ALGO DO TIPO!
